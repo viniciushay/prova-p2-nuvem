@@ -25,4 +25,7 @@ evidencia 1
 CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
 evidencia 2
 curl: (7) Failed to connect to localhost port 8090 after 0 ms: Couldn't connect to server
+#
+conclusão
+embora eu tenha travado. eu aprendi mais como funciona os pods, sei usar um pouco dos comandos kubectl. Mas eu nunca tinha visto a mensagem de não conseguir se conectar, entçao fiquei travado.
 
