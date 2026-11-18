@@ -21,4 +21,8 @@ R=gerenciar a implantação, a atualização e a disponibilidade das aplicaçõe
 3.qual é a finalidade de um service no kubernetes?
 R=fornecer um ponto de acesso de rede estável.
 ##
+evidencia 1
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+evidencia 2
+curl: (7) Failed to connect to localhost port 8090 after 0 ms: Couldn't connect to server
 
