@@ -25,3 +25,6 @@ curl: (7) Failed to connect to localhost port 8090 after 0 ms: Couldn't connect 
 root@controlplane:~$ 
 root@controlplane:~$ curl http://localhost:8090
 curl: (7) Failed to connect to localhost port 8090 after 0 ms: Couldn't connect to server
+kubectl create deployment prova-p2-nuvem --image=nginx:alpine
+kubectl get deployments
+kubectl get pods
